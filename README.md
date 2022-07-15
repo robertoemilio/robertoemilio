@@ -1,4 +1,4 @@
-## Olá eu sou o Roberto Emílio
+## Olá, eu sou o Roberto Emílio
 
 - Sou um entusiasta da tecnologia,  Analista de Sistemas e Desenvolvedor.
 - Tenho conhecimento em Oracle e ADVPL. Estou iniciando uma jornada de aprendizado no mundo do DevOps.
