@@ -17,10 +17,9 @@
   <img align="center" alt="Sql" height="40" width="50" src="https://icon2.cleanpng.com/20180320/lrw/kisspng-oracle-sql-developer-oracle-database-pl-sql-oracle-vector-sql-server-icon-5ab0cd69949b77.5546141815215363616087.jpg"/>
   <img align="center" alt="Linux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">   
-
 </div>
   
-  <div>
+ <div>
  <a href = "mailto:robertoemilio1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/robertoemilio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+ <a href="https://www.linkedin.com/in/robertoemilio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
