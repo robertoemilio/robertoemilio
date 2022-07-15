@@ -1,4 +1,4 @@
-## Olá, eu sou o Roberto Emílio
+# Olá, eu sou o Roberto Emílio
 
 - Sou um entusiasta da tecnologia,  Analista de Sistemas e Desenvolvedor.
 - Tenho conhecimento em Oracle e ADVPL. Estou iniciando uma jornada de aprendizado no mundo do DevOps.
@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/robertoemilio">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robertoemilio&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoemilio&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=robertoemilio&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoemilio&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
 
 </div>
 
-  ##
+ 
   
   <div>
  <a href = "mailto:robertoemilio1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
