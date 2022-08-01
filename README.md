@@ -3,7 +3,7 @@
 - Sou um entusiasta da tecnologia,  Analista de Sistemas e Desenvolvedor.
 - Tenho conhecimento em Oracle e ADVPL. Estou iniciando uma jornada de aprendizado no mundo do DevOps.
 - Vou colocando aqui tudo que estou estudando e aprendendo para compartilhar conhecimento com vocês.
-- <a href= "https://www.linkedin.com/in/robertoemilio/" target="_blank"></a>
+- <a href= "https://www.linkedin.com/in/robertoemilio/" target="_blank">https://www.linkedin.com/in/robertoemilio/</a>
 
 <div align="center">
   <a href="https://github.com/robertoemilio">
